@@ -99,7 +99,7 @@ def check_shortening_service(url):
 
 st.markdown("""
     <div style='text-align: right; margin-bottom: 20px;'>
-        <a href='http://localhost:5173/' target='_blank' 
+        <a href='https://urlphisingdetection.vercel.app/' target='_blank' 
            style='background-color: #0e1117; color: white; 
                   padding: 8px 16px; border-radius: 4px; 
                   text-decoration: none; font-weight: bold;'>
